@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Carter+One&family=Kaushan+Script&family=Noto+Sans:wght@500&family=Poppins&family=Rubik+Microbe&family=Satisfy&family=Train+One&family=Urbanist&display=swap');
+.mainbody{
+    background-color: #f4c531;
+}
+
+#dish{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    padding: 0.6em;
+    font-size: 1em;
+    width: 100%;
+    
+
+}
+
+#maindiv{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+    
+.card-img-top{
+    width: 100%
+    
+}
+
+#final{
+    color: black;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+
+}
+
+#dishname{
+    background-color: #f4c531;
+    border: 1px solid black;
+}
+
+h4{
+    background-color: #f4c531;
+    font-family: 'Noto Sans', sans-serif;
+    border: 1px solid black;
+}
+h1{
+    font-family: 'Carter One', cursive;
+    color: rgb(11, 11, 42);
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+h5{
+    font-family: 'Urbanist', sans-serif;
+}
+h6{
+    font-family: 'Noto Sans', sans-serif;
+}
+label{
+    font-size: x-large;
+    font-family: 'Urbanist', sans-serif;
+}
